@@ -1,7 +1,5 @@
 #move mouse every 60 seconds on screen to x, y position
 import pyautogui
-import time
-
 
 if __name__ == '__main__':
     pyautogui.PAUSE = 60
