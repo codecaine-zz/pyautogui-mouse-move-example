@@ -3,7 +3,7 @@
 import pyautogui
 
 if __name__ == '__main__':
-    pyautogui.PAUSE = 2.5
+    pyautogui.PAUSE = 60
     pyautogui.FAILSAFE = True
 
     while True:
