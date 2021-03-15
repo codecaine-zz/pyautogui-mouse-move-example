@@ -1,4 +1,5 @@
 #move mouse every 60 seconds on screen to x, y position
+
 import pyautogui
 
 if __name__ == '__main__':
